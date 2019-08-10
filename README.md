@@ -2,7 +2,7 @@
 
 # 🏀 CXK 打篮球
 
-本项目是 CXK 打篮球的游戏，原项目：[h5-game-blockBreaker](https://github.com/yangyunhe369/h5-game-blockBreaker)
+本项目是 CXK 打篮球的游戏
 
 **ReadMe:** [English Version](README_EN.md) | **Demo**：[cxk.ssrr.one](https://cxk.ssrr.one/)
 
@@ -27,7 +27,7 @@
 你可以直接玩 demo 或者自行 clone 到本地
 
 ```bash
-git clone https://github.com/kasuganosoras/cxk-ball
+git clone https://github.com/yaozhu008/play_ball_game.git
 ```
 
 访问你的站点或者直接浏览器打开 `index.html` 开始玩
